@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title">Quiz App</string>
+    <string name="choose_number_of_questions">Choose number of questions:</string>
+    <string name="select_category">Select Category:</string>
+    <string name="select_difficulty">Select difficulty:</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="default_number">10</string>
+    <string name="countinue">Countinue</string>
+    <string name="next">Next</string>
+    <string name="points">Points: </string>
+    <string name="enter_your_username">Enter Your Username...</string>
+</resources>
